@@ -21,7 +21,7 @@ LEDsFinder.exe good_4.png
 **Example of Algorithm result:**
 
 
-![Screenshot](https://github.com/cppjocker/LEDsFinder/tree/master/img/good_4_recognized.png)
+![alternativetext](https://github.com/cppjocker/LEDsFinder/tree/master/img/good_4_recognized.png)
 
 **Description of algorithm:**
 
