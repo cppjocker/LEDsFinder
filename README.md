@@ -1,25 +1,25 @@
 Image Processing algorithm that check if all 4 LEDs are on from test image. Supposed that LEDs have approximately circle form, the same size and located approx on one disatnce from image center
 
-third-party required:
+**third-party required:**
 
 ```
 OpenCV 
 ```
 
 
-Command line
+**Command line:**
 
 ```
 LEDsFinder.exe "path to image file"
 ```
 
-Example of Usage:
+**Example of Usage:**
 ```
 LEDsFinder.exe good_4.png
 ```
 
 
-Description of algorithm:
+**Description of algorithm:**
 
 
 Firs, I split image on 4 parts. For each part, I search max intenensity, take 0.8 threshold and perform binarization by such threshold. 
