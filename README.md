@@ -18,6 +18,10 @@ LEDsFinder.exe "path to image file"
 LEDsFinder.exe good_4.png
 ```
 
+**Example of Algorithm result:**
+
+
+![alt text](https://github.com/cppjocker/LEDsFinder/tree/master/img/good_4_recognized.png)
 
 **Description of algorithm:**
 
